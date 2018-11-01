@@ -1,0 +1,25 @@
+.registration, .login{
+    margin: 0 auto;
+    width: 700px;
+    height: 200px;
+    border: 1.5px solid black;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background:linear-gradient(grey, white 170px)
+}
+input{
+    width: 200px;
+    height: 35px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+}
+ul{
+    margin-top: 250px;
+    position: absolute;
+}
+h1{
+    margin-left: 400px;
+}
+
